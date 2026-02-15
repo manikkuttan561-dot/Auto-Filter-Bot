@@ -246,6 +246,18 @@ class script(object):
     CAPTION = """<b>{file_name}\n
 📤 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ: <a href="https://t.me/HELANA_BOTZ">HELANA Botz</a></b>"""
 
+
+    MOVIE_UPDATE_NOTIFY_TXT = """
+🔰<b>{filename}</b> ✅
+<blockquote>🎧 <b>{language}</b>
+🎞️ : <b>{quality}</b>
+🎭 : <b>{genres}</b>
+📺 : 227 <b>(there)</b>
+<b>💬 Subtitles included in files</b></blockquote>
+
+<pre>⬇️ To Get Files: Send exact spelling in our groups given
+"""
+
     IMDB_TEMPLATE_TXT = """
 <b>🎬 ᴛɪᴛʟᴇ: <a href={url}>{title}</a>
 🎭 ɢᴇɴʀᴇꜱ: {genres}
